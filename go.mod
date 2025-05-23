@@ -1,4 +1,4 @@
-module github.com/bep/gallerydeluxe_starter
+module https://github.com/overzet/MyPhotos
 
 go 1.19
 
